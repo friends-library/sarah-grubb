@@ -1,12 +1,19 @@
 == Chapter V.
 
-Family Visit at Sheffield.--Her illness there.--Consideration of removing into
-Ireland.--Journey into Lincolnshire.--Removal to Ireland.--Journey into Holland,
-Germany and France.
+[.chapter-synopsis]
+* Family Visit at Sheffield
+* Her illness there
+* Consideration of removing into Ireland
+* Journey into Lincolnshire
+* Removal to Ireland
+* Journey into Holland, Germany and France.
 
-In the first month 1787, she was engaged with Rebecca Jones and others,
++++[+++In the first month 1787, she was engaged with Rebecca Jones and others,
 in a religious visit to the families of Friends at Sheffield;
-concerning which she writes as follows:
+concerning which she writes as follows:]
+
+[.small-break]
+'''
 
 The visit here is got through, and I hope profitably to many, and especially the youth,
 of whom here are great numbers; some of the apprentices are very raw,
@@ -18,7 +25,10 @@ It is pleasant to find increasing unity and openness
 amongst rightly concerned Friends in this place,
 and that love which casteth out fear.
 
-At the close of this family visit, she was taken very ill,
+[.small-break]
+'''
+
++++[+++At the close of this family visit, she was taken very ill,
 with a heavy cold and an inflammation of the lungs.
 This disorder continued for several weeks,
 during which she was brought very low in body and mind.
@@ -26,7 +36,10 @@ But the great Physician, on whom appeared to be her sole dependence,
 saw meet to raise her again, and to renew a considerable portion of health and strength.
 Of this illness, and the exercise of her mmd under it,
 as well as of her feelings in the review of it, some account will be conveyed,
-by the following extracts from her letters, written whilst she was on the recovery.
+by the following extracts from her letters, written whilst she was on the recovery.]
+
+[.small-break]
+'''
 
 I am now favoured with ability to answer your solicitude myself, and say,
 that the account you had of my illness was, I apprehend, not worse than the reality;
@@ -69,7 +82,10 @@ sought for in a late season of adversity.
 These things convince us, that in order to win the crown in view,
 we must fight the good fight, and wrestle for that faith which only gives the victory.
 
-The subject of removing into Ireland, and settling there, had for a considerable while,
+[.small-break]
+'''
+
++++[+++The subject of removing into Ireland, and settling there, had for a considerable while,
 engaged her solid consideration;
 and the propriety of that undertaking was about this time attended
 with such clearness to her own mind and that of her husband,
@@ -78,7 +94,10 @@ Divers of her letters written on this occasion,
 show her sense of the importance of this measure,
 and how great and exemplary was her concern,
 that they might be directed wisely and safely concerning it.
-The following have been selected from them.
+The following have been selected from them.]
+
+[.small-break]
+'''
 
 Our minds have been under frequent, and sometimes, unprofitable,
 concern how to dispose of ourselves.
@@ -177,13 +196,19 @@ and may we have no other dependence, is the secret petition of my mind; for,
 in the undertaking before us, we may say,
 that with our staff only we are passing over this Jordan.
 
-Having come to a conclusion respecting their removal into Ireland,
+[.small-break]
+'''
+
++++[+++Having come to a conclusion respecting their removal into Ireland,
 and obtained the concurrence of their monthly meeting,
 they proceeded to York and attended the quarterly meeting there; from whence,
 after taking a solemn and affecting leave of their near connections and friends,
 they set forward for the county of Lincoln; the meetings of which,
 as well as some others, she felt a desire to attend, in her way to the yearly meeting.
-Soon after this trying separation, the following letter appears to have been written.
+Soon after this trying separation, the following letter appears to have been written.]
+
+[.small-break]
+'''
 
 Last week but one was our quarterly meeting at York,
 which was favoured with the overshadowing of the heavenly wing.
@@ -209,12 +234,18 @@ that should we be spared with life and strength,
 to enter into and rightly stand in our lots at Clonmel,
 we shall find every want supplied, and true yoke-fellows beyond our deserts.
 
-With divers companions in that service,
+[.small-break]
+'''
+
++++[+++With divers companions in that service,
 she visited most or all of the meetings and families of Friends in Lincolnshire,
 and attended several other meetings as she proceeded to London.
 Though but little of the progress of this journey is described in the following extracts;
 yet the feelings of her mind, and the instructive remarks set forth therein,
-will it is apprehended, render it proper to insert them here.
+will it is apprehended, render it proper to insert them here.]
+
+[.small-break]
+'''
 
 We are favoured to get along as well as we might expect,
 we hope in some degree of sympathy with the
@@ -287,11 +318,17 @@ and looking singly to the Rock from whence all good things are hewn,
 and the hole of the pit, the humbling dispensations of infinite wisdom,
 from whence they are dug.
 
-Soon after the yearly meeting at London, they proceeded for Clonmel in Ireland,
+[.small-break]
+'''
+
++++[+++Soon after the yearly meeting at London, they proceeded for Clonmel in Ireland,
 where she was favoured to arrive in safety, in the sixth month, 1787,
 with her health much improved, and under a good degree of peace and satisfaction of mind;
 which continued for some time after her arrival,
-as a source of consolation and encouragement: she writes as follows:
+as a source of consolation and encouragement: she writes as follows:]
+
+[.small-break]
+'''
 
 Our removal has altogether been blessed with a good
 degree of that peace which passeth understanding,
@@ -314,6 +351,9 @@ both of which, if my natural life is spared, will, I do believe, be my companion
 and prove frequent trials of an abiding and advancement in that gospel Spirit,
 which loveth, hopeth, and endureth through all.
 
+[.small-break]
+'''
+
 Fourth month, 1787.--Your company was pleasant to us, and the remembrance of you is so,
 and I trust will continue as long as the sincere engagement of our minds is,
 to be branches in the same Vine.
@@ -322,6 +362,9 @@ and feel the dryness and strippedness peculiar to that season;
 yet learning in the school of Christ, in every state to be content,
 and perceiving with increasing clearness, where the sap remains, we can rejoice therein,
 and salute each other in true poverty of spirit.
+
+[.small-break]
+'''
 
 Fourth month, 1787.---I received a kind encouraging letter from thee some months ago,
 when, with many others,
@@ -352,6 +395,9 @@ and found him not,`" yet his invisible Arm being underneath,
 was graciously revealed in an acceptable time, when, through sore tribulation,
 a resigned frame of mind became more my experience.
 
+[.small-break]
+'''
+
 Fifth month, 1787.--If the right thing does but prevail in the approaching solemnity,
 it may be a time of healing.
 Those whose spiritual faculties are alive in the Truth,
@@ -369,6 +415,9 @@ the day is approaching,
 wherein that life which is the light of men may become more
 conspicuously the crown and diadem of our assemblies,
 and of the services performed in the church.
+
+[.small-break]
+'''
 
 Fifth month, 1787.--I received thy letter, and was pleased to hear from thee,
 though the account of thy health, etc., was not so favourable as might be wished;
@@ -393,6 +442,9 @@ do not let us add to our difficulties, by admitting carnal reasonings,
 and taking too much thought for tomorrow;
 but rather labour after that great attainment of living one day at once.
 
+[.small-break]
+'''
+
 Sixth month, 1787.--You will see by the foregoing,
 that we are arrived at the intended place of our abode,
 and have ventured to ask at last for a recommendation
@@ -416,6 +468,9 @@ I trust so much we may say, that our minds, since leaving England,
 have been bowed in contrition before Him who sees in secret, and settled, sometimes,
 in a quiet dependence upon his almighty Arm,
 rather desiring to be sustained in obscurity, than to be accounted anything amongst men.
+
+[.small-break]
+'''
 
 Eighth month, 1787.--Your joint salutation was truly acceptable;
 for though our love was not lessened, yet the sensible feeling of it,
@@ -449,6 +504,9 @@ to that power which can turn the wilderness into a fruitful field,
 and cause the fruitful field to be counted for a forest.
 When this good is mercifully near, and we are favoured with the common comforts of life,
 there ought to be a grateful acknowledgment thereof, as well as obedient returns.
+
+[.small-break]
+'''
 
 Eighth month, 1787.--Thy brotherly salutation confirmed a hope I had entertained,
 that there lived in both our minds such a degree of true love,
@@ -534,6 +592,9 @@ We have been favoured with many epistolary visits from our friends in England,
 which are not unlike little brooks by the way; but ah,
 we may sit by them till they dry up! however, comforts they are in their proper places.
 
+[.small-break]
+'''
+
 Ninth month, 1787.--Every blessing is at the disposal of unerring wisdom;
 and our true enjoyments are generally proportioned to the resignation our minds attain,
 to surrender whatever we possess to the turnings of the divine hand;
@@ -552,6 +613,9 @@ race! that our running being with patience,
 and the steps we take attended with light at the finishing of the work assigned us,
 we may then be indisputably convinced, that having had no continuing city here,
 we have found one which hath foundations.
+
+[.small-break]
+'''
 
 Ninth month, 1787.--As the present scene is, consistent with the nature of things,
 chequered with a variety of circumstances and feelings,
@@ -575,6 +639,9 @@ whose garments have been washed and made white by the spirit and power of the La
 There is something in us so prone to settle down at ease in prosperity,
 that without some fatherly chastisements,
 we might forget from whom we receive our spiritual and temporal blessings.
+
+[.small-break]
+'''
 
 Tenth month, 1787.--My mind, on returning and since,
 was favoured with a secret humble trust that I was not out of the way of my duty,
@@ -622,6 +689,9 @@ but certainly it is a safe and hidden path which the Christian traveller walks i
 in no respect, he desires to take the lead, but resignedly gives himself up to be led,
 step by step through the difficulties of his allotted line of service.
 
+[.small-break]
+'''
+
 Eleventh month, 1787.--I received this morning, with comfort,
 the long retained token of thy affection; and can assure thee I am poor enough to enter,
 with heart-felt sympathy, into the situation thou describes,
@@ -664,6 +734,9 @@ which quickens the mind and prepares the sacrifice,
 rather than consulted vainly with flesh and blood,
 they would have been stronger in the faith, and more of them righteous contenders for it.
 
+[.small-break]
+'''
+
 Eleventh month,
 1787.--It is by a single dependence upon that divine and
 creative power by which all things were made that are made,
@@ -701,7 +774,10 @@ particularly in company, to a worldly spirit,
 rather than suffer as a fool for the seed's sake;
 and yet I trust I am making war against it, and have victory in view.
 
-Her mind had frequently, for a considerable time before this period,
+[.small-break]
+'''
+
++++[+++Her mind had frequently, for a considerable time before this period,
 been closely exercised with an apprehension,
 that it would be required of her to pay a religious
 visit to some parts of Germany and France:
@@ -718,12 +794,18 @@ and engaged therein with the unity of Friends.
 
 The following parts of her letters on this occasion,
 describe the previous exercise of her mind, and contain a pretty regular,
-though short account of the journey, from the commencement of it, to its conclusion.
+though short account of the journey, from the commencement of it, to its conclusion.]
+
+[.small-break]
+'''
 
 Twelfth month, 1787.--My mind after a season of deep trial and exercise,
 was led to visits in what appeared to myself an extraordinary degree of gospel love,
 many in that country, and some parts of Germany contiguous thereto; fully believing,
 according to my feelings, that there were spiritual worshippers in those parts.
+
+[.small-break]
+'''
 
 Twelfth month, 1787.--If the prospect before us be in divine wisdom,
 we have great cause to acknowledge that it is unfathomable, and past our finding out,
@@ -743,6 +825,9 @@ but when gospel love flows from the living fountain,
 it overpowers all selfish considerations, and shows me my own unworthiness to be,
 in the least degree, employed in the divine hand.
 
+[.small-break]
+'''
+
 First month, 1788.--Our situation at present,
 requires at least a grain of that faith which has power to remove mountains; for, truly,
 vain is the help of man, in cases where the pure seed is to be exalted.
@@ -751,6 +836,9 @@ I trust, whatever our trials or temptations may be, so humble us,
 as wholly to prevent a vain dependence upon anything of our own;
 but surely there is as much need for watchfulness and prayer at this day,
 as when the disciples were immediately recommended to it.
+
+[.small-break]
+'''
 
 First month, 1788.--My mind is often under a load of exercise on my own account,
 and in care lest the precious cause should suffer by me.
@@ -765,6 +853,9 @@ and even the weakness of the outward tabernacle,
 "`I am a worm.`"
 This however cheers me, that without some degree of clearness, we need not,
 neither shall attempt to move.
+
+[.small-break]
+'''
 
 First month, 1788.--To be furnished with that excellent armour thou speaks of,
 is truly desirable, and when without it, the prayer of my heart is,
@@ -787,6 +878,9 @@ and such like compassionate counsel,
 sometimes drops into my mind in the midst of my conflicts,
 and proves to be words of that kind which both winds and waves obey.
 
+[.small-break]
+'''
+
 Second month, 1788.--I have been of late considerably indisposed,
 but upon the whole am much better, though every day sensible of having,
 by some means or other, a very broken constitution.
@@ -794,6 +888,9 @@ If it do but last till the portion of work allotted me is finished, that is enou
 even though it be performed under the pressure of bodily infirmities;
 all which maybe no more than necessary to keep the mind to its proper centre,
 and direct its attention, singly to an inheritance undefiled, and which fadeth not away.
+
+[.small-break]
+'''
 
 Second month, 1788.--Though the root of any good affection be alive,
 yet there is but one right season prescribed in divine
@@ -832,6 +929,9 @@ who was so largely acquainted with the dealings of infinite Wisdom, exclaim,
 "`how excellent is thy loving kindness, Lord; because thereof,
 the sons of men put their trust under the shadow of thy wing.`"
 
+[.small-break]
+'''
+
 Third month, 1788.--We were at their weekday meeting here yesterday,
 and had a large public meeting in the evening, in both of which, I trust,
 we were owned by the Master of all rightly gathered assemblies,
@@ -851,6 +951,9 @@ Yet the inquisitiveness and judgments of the creaturely part,
 often lead us into discouragements when we should, in the simplicity of little children,
 do as we are bidden, and leave the event to Him who knows best how, and when,
 to use the weak and foolish things of this world, to confound the wisdom of the wise.
+
+[.small-break]
+'''
 
 Third month, 1788.--By way of apology for my silence let me say, that writing,
 in many respects, less suited the disposition and qualifications of my mind,
@@ -885,6 +988,9 @@ convey to you the indisputable intelligence of his own will,
 and so preserve you in a state of fidelity to himself,
 as that none shall be able to pluck you out of his holy Hand!
 
+[.small-break]
+'''
+
 1788.--It is a favour that the best root needs no great profession,
 or specious words to nourish it;
 it is not strengthened by a multitude of luxuriant branches, though, if it be alive,
@@ -917,6 +1023,9 @@ approving ourselves more and more babes in Christ,
 our knowledge of the mysteries of the kingdom may be pure, and of that preserving nature,
 that never puffeth up.
 
+[.small-break]
+'''
+
 1788.--It is not because thou and thy dear wife were forgotten by us,
 that neither my husband nor I have, since our return from England, dropped you a line.
 Silence, on my part,
@@ -941,6 +1050,9 @@ and those precious influences, hope and charity,
 which constrain us to render unto the great Lawgiver, in his time only,
 whatsoever he requires at our hands,
 though incomplete and foolish to the unsimplified mind.
+
+[.small-break]
+'''
 
 I often wish, on my own account, to be more in substance than I am.
 That infinite kindness has made me a partaker of the common salvation,
@@ -969,6 +1081,9 @@ but, as an individual, I find it safest, in conformity to the great Master's com
 to judge not, except through the spirit of the Son,
 the judgment of the everlasting Father is known; and at such seasons,
 the mind is too much humbled vainly to feed on this revealed knowledge.
+
+[.small-break]
+'''
 
 Third month, 1788.--According to present appearances, we,
 (I mean our little company,) stand in abundant need of the whole armour of light.
@@ -1351,7 +1466,13 @@ an Inspirant, paid us some visits, I believe to mutual satisfaction.
 We heard of a religious exercised coachman for whom was left a book or two,
 he not being at home.
 
-The following letter was written at Basle the 9th of the fifth month, 1788.
+[.small-break]
+'''
+
++++[+++The following letter was written at Basle the 9th of the fifth month, 1788.]
+
+[.embedded-content-document.letter]
+--
 
 As it is probable we may leave Basle without taking leave of thee,
 and acknowledging thy kindness with a gratitude due to it,
@@ -1401,9 +1522,14 @@ even the washing of regeneration, and the renewings of the Holy Ghost.
 Fervently desiring that thy sincere mind may,
 through the humbling processes of true spiritual baptism,
 be led in the faith and patience, to the rest which is prepared for the children of God;
+
+[.signed-section-closing]
 I remain in gospel love, thy friend,
 
+[.signed-section-signature]
 Sarah Grubb
+
+--
 
 After secretly suffering, as in many other places, we took our departure for Geneva,
 travelling through a beautiful country the last twenty miles, by the lake of Geneva,
@@ -1592,6 +1718,9 @@ But ah, poor Amsterdam! yea, poor Rotterdam! and many,
 many places on that side the continent, touching whose inhabitants my soul, at times,
 sings mournfully to its well-beloved!
 
+[.small-break]
+'''
+
 Ninth month, 1788,--Thy letter saluted us two days after our arrival at home,
 and was truly cordial, reviving with great sweetness,
 our love and friendship with thee and thy dear wife, and also strengthening our hope,
@@ -1658,6 +1787,9 @@ but our study should be to show ourselves approved unto God; and then,
 whatever vocation in His wisdom we are placed in, or however weak we may feel ourselves,
 we shall have no just cause to be ashamed.
 
+[.small-break]
+'''
+
 Eleventh month, 1788.--I can feelingly subscribe to the truth of what thou sayest,
 that it is good to spend one's days in the bands of a free and sincere friendship,
 and in the unity of a solid and constant faith.
@@ -1703,6 +1835,9 @@ will demonstrate that they have been with Jesus,
 from whom they receive all their qualifications to perform true worship,
 or do any thing that is good.
 
+[.small-break]
+'''
+
 Tenth month, 1788.--Thy letter, which arrived about a week ago,
 was sweetly refreshing and truly salutary to us; and I may now tell thee,
 that though acceptable, as an individual,
@@ -1728,6 +1863,9 @@ all will work together for good;
 and we grow in qualification to worship and magnify that great and excellent Name,
 which only is worthy of the incense that in every place and situation is to be offered.
 
+[.small-break]
+'''
+
 Eleventh month, 1788.--If I know my own heart, it is my desire to know my business,
 and simply to do it, whether it is taken cognizance of or not,
 by the truly wise and honourable; whose friendship, though strengthening, consoling,
@@ -1752,4 +1890,3 @@ and my soul is exceeding sorrowful.
 That there are causes in myself and circumstances attending our present situation,
 I doubt not: "`give me wisdom,
 and reject me not from amongst thy children,`" is my secret petition.
-

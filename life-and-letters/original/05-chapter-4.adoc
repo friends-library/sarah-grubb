@@ -1,11 +1,15 @@
 == Chapter IV.
 
-Account of her visit to some of the western counties of England.
+[.chapter-synopsis]
+* Account of her visit to some of the western counties of England.
 
-A few months after her return from Ireland,
++++[+++A few months after her return from Ireland,
 she felt a renewed engagement to accompany her friend Rebecca Jones,
 on a visit to some parts of the western counties in England.
-Of the principal parts of this visit, she has left the following journal.
+Of the principal parts of this visit, she has left the following journal.]
+
+[.small-break]
+'''
 
 After my return from Ireland,
 my beloved companion Rebecca Jones being detained in Yorkshire, on divers accounts,
@@ -203,7 +207,7 @@ in one of the rooms of the inn; and after it went to Pales,
 and were at meeting there next day, which was a laborious, searching opportunity,
 many disorderly walkers being there.
 
-We then stept out of Wales, and visited the few Friends at Almilly and Leominster,
+We then stepped out of Wales, and visited the few Friends at Almilly and Leominster,
 in Herefordshire.
 The first is very small, having scarce any weight to support a meeting;
 but many solid neighbours attending, it was a precious lively opportunity,
@@ -350,7 +354,7 @@ and reached Bristol late that night.
 
 We met with a hospitable reception from Lydia Hawksworth, with whom we sojourned,
 and next day I went with my companion and Lydia to see our beloved, honoured friend,
-Catherine Phillips, then at J. Hipsley's at Congersbury.
+Catherine [Payton] Phillips, then at J. Hipsley's at Congersbury.
 She was in a languid state of health,
 which in some degree occasioned a depression of spirits, but her best life was strong,
 though hid from herself with Christ in God.
@@ -632,7 +636,13 @@ requires soundness of judgment, strength in the pure faith,
 patient perseverance and righteous zeal; all of which, when I see myself,
 I feel the want of.
 
-The following passages are extracted from her letters;
+[.small-break]
+'''
+
++++[+++The following passages are extracted from her letters:]
+
+[.small-break]
+'''
 
 9th of the seventh month 1786.--As I trust our alliance to each other in spirit,
 is stronger than the ties of nature, it is not, we may conclude, inconsistent therewith,
@@ -648,6 +658,9 @@ the Society is low in these western parts,
 is so general and so just a complaint,
 that there is a danger of its being taken up without
 feeling sufficiently the spirit of mourning.
+
+[.small-break]
+'''
 
 13th of the seventh month 1786.--We endeavour quietly to get forward;
 and by the continued sustaining evidence,
@@ -692,10 +705,16 @@ wherein the right way to the kingdom,
 was proved to be widely different from that wherein many are walking;
 and under this help, a degree of holy solemnity was felt.
 
-In addition to the preceding journal, which appears to be left short of the visit,
+[.small-break]
+'''
+
++++[+++In addition to the preceding journal, which appears to be left short of the visit,
 the following extracts have been made from her letters; which,
 though not containing a regular, continued account,
-may afford further information and instruction.
+may afford further information and instruction.]
+
+[.small-break]
+'''
 
 The present journey with my beloved friend has been a fresh
 trial of the uprightness of my desire after dedication;
@@ -790,7 +809,10 @@ ministers yet dwelling in mine earthen vessel,
 abundantly doth my soul acknowledge, that the excellency of the power is not of us,
 but of Him, and that He hath a right to reveal it when and how he pleaseth.
 
-She attended the circular meeting at Gloucester, in the ninth month;
+[.small-break]
+'''
+
++++[+++She attended the circular meeting at Gloucester, in the ninth month;
 from whence she returned pretty directly into Yorkshire,
 and was at the quarterly meeting for that county.
 In the forepart of the tenth month,
@@ -798,7 +820,10 @@ she proceeded with Geroge Dillwyn and others to the county of Durham,
 and attended the quarterly meeting there.
 Of these services no remarks can be added,
 as there does not appear any thing material of her own preserved on these occasions.
-The following extracts from other letters are also instructive and interesting, viz.
+The following extracts from other letters are also instructive and interesting, viz.]
+
+[.small-break]
+'''
 
 Fourth month, 1786.--We have often conversed about Friends in Ireland,
 and felt the glow of true love therein; which, though not much expressed to themselves,
@@ -819,6 +844,9 @@ the fellowship of His sufferings, and be made conformable to His death.
 The spirit is willing thus to endure, but the flesh and its inherent propensity to ease,
 creates a warfare, wherein I sometimes fear,
 the natural and best life will entirely fall.
+
+[.small-break]
+'''
 
 Fifth month,
 1786.--We are sometimes like pilgrims whose faith and patience
@@ -856,6 +884,9 @@ for my sentiments of thee are very different;
 but I wish thee to set out independent of any instrumental help,
 except that which is sent from the fountain of purity;
 and to look to no example further than it is consistent with the holy Pattern.
+
+[.small-break]
+'''
 
 Seventh month, 1786.--I remember it is said,
 that even "`when the sons of God met together,
@@ -901,6 +932,9 @@ but "`the humble the Lord teacheth of his ways,
 and the meek he guides in the paths of judgment:`" "`thy
 gentleness (said David) hath made me great.`"
 
+[.small-break]
+'''
+
 Eighth month,
 1786.--I see abundant occasion to watch the spring in
 myself from whence my rejoicings and depressions come.
@@ -928,6 +962,9 @@ on finding how little capacity I have to receive things genuinely divine,
 the acknowledgment is readily made, that I know nothing as I ought to know,
 which is only attained by an experimental growth and establishment therein;
 and yet short of this I sometimes desire to find no rest.
+
+[.small-break]
+'''
 
 Tenth month, 1786.--Experience teaches us,
 that it is not always we are capable of even enjoying
@@ -967,6 +1004,9 @@ instead of outward,
 and there waiting for the renewings of that power by which the worlds were made,
 and receiving supplies for spiritual wants at the first almighty Hand.
 
+[.small-break]
+'''
+
 First month, 1787.--Your joint aflfectionate salutation came duly to my hands,
 and with the sympathy expressed in it,
 afforded me a little of that consolation which
@@ -991,4 +1031,3 @@ I hope you will continue to keep in your remembrance a poor little sister,
 beset with many discouragements, and sifted with many fears and doubtings,
 particularly respecting our future movements;
 for I endeavour what I can to leave the things that are behind.
-
