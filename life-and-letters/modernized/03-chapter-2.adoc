@@ -1,13 +1,18 @@
 == Chapter II.
 
-Her marriage--and journey into Scotland, Cumberland, etc.
+[.chapter-synopsis]
+* Her marriage
+* Journey into Scotland, Cumberland, etc.
 
-In the fourth month 1782, she was married to our friend Robert Grubb,
++++[+++In the fourth month 1782, she was married to our friend Robert Grubb,
 of Clonmel in Ireland, who had for some time resided at York;
 to whom she was a faithful and tender companion, and a sympathizing,
 strengthening helpmeet, in the various probations of their spiritual pilgrimage.
 On this subject, the following instructive letter, written some months afterwards,
-appears to be worthy of insertion.
+appears to be worthy of insertion.]
+
+[.small-break]
+'''
 
 --It is an awful thing to me, to enter into this new sphere.
 I am now blessed with all, and more than I had any right to ask for in it.
@@ -29,7 +34,10 @@ the blessing of preservation may attend us, and patience have its perfect work,
 till the burning of the Lord's day has done its office,
 and a quiet centre in everlasting repose, is obtained.
 
-About two weeks after this event,
+[.small-break]
+'''
+
++++[+++About two weeks after this event,
 she entered on a religious visit to Friends in Scotland,
 in company with her friend Mary Proud;
 having previously obtained a certificate of concurrence from the monthly meeting.
@@ -38,7 +46,10 @@ that she thought it her duty to engage in it, at this time.
 Her feelings under the view of it, and in the prospect of her marriage,
 with her resignation to the service, and desires for divine preservation and direction,
 are in some measure, set forth, by the following extracts from some of her letters,
-written on those occasions.
+written on those occasions.]
+
+[.small-break]
+'''
 
 I cannot be on the verge of such important, and some new, concerns,
 without feeling deep anxiety and many fears:
@@ -48,6 +59,9 @@ The mind or body seldom suffers alone, and it is comfortable to believe,
 that they are not intended to be always, or long companions.
 I have not been very well of late, which is not to be wondered at,
 nor is it worth much attention.
+
+[.small-break]
+'''
 
 --The sentiment you drops respecting Scotland, is so exactly similar to my own,
 that it was like a little strength handed in the time of need; and I greatly wish,
@@ -69,6 +83,9 @@ which the arrows of the archers cannot penetrate,
 I must fall to the opposition of the enemy in myself;
 but when the arm of power is felt to be near,
 then it is that we rejoice in the means of our salvation,
+
+[.small-break]
+'''
 
 --There is still a secret belief,
 that the growth and cultivation of my views respecting a northern journey, were,
@@ -108,8 +125,14 @@ that if we venture to move, the cloud may sensibly be taken off the tabernacle,
 and we careful to follow the appointed guide, and be favoured,
 in this day of deep degeneracy, with an evidence, that we have done what we could.
 
-The following is an account of her journey, through Scotland, etc,
-taken from a short journal written by herself, and found among her papers.
+[.small-break]
+'''
+
++++[+++The following is an account of her journey, through Scotland, etc,
+taken from a short journal written by herself, and found among her papers.]
+
+[.small-break]
+'''
 
 --The 20th of the fourth month, 1782, I left York, with my friend Mary Proud,
 for the yearly meeting at Edinburgh, intending from there, to visit Friends in Scotland,
@@ -322,7 +345,13 @@ where we used some means to obtain a meeting, but they not being effectual,
 we were easy to leave the place; and went forward, without any other meeting in the way,
 to Edinburgh, where we arrived on fifth-day evening, the 15th of the month.
 
-From Aberbrothwick she writes thus to a Friend:
+[.small-break]
+'''
+
++++[+++From Aberbrothwick she writes thus to a Friend:]
+
+[.small-break]
+'''
 
 The minds of many of the people in this land seem preparing, like the good ground,
 to receive, in childlike simplicity, the ingrafted word,
@@ -344,7 +373,13 @@ and though it may have been chiefly on account of the people,
 yet gratitude has covered our minds for it,
 and it occasions us to feel more deeply any lack of faithfulness.
 
-The following letters were written a few days after getting out of Scotland.
+[.small-break]
+'''
+
++++[+++The following letters were written a few days after getting out of Scotland.]
+
+[.small-break]
+'''
 
 --It is a favour when we are at liberty to feel one another,
 in the cementing bond of pure love and unchangeable fellowship; for, really,
@@ -359,6 +394,9 @@ need to watch every pointing of the Master,
 we are in the greater fitness to receive that divine light, in which, and by which only,
 every service in the church can be rightly accomplished.
 
+[.small-break]
+'''
+
 --We are convinced it is right for those who go into Scotland, to go without plan,
 or fixed times for things, and simply to attend, day by day, to the openings of Truth,
 giving up their time freely, and considering themselves in no respect their own.
@@ -368,6 +406,9 @@ weapons as will penetrate the minds of the people,
 and reach the divine life, rather than aim merely at convincing the judgment, will have,
 I am persuaded, great service in that land,
 and find the free dedication of their time to be an acceptable sacrifice.
+
+[.small-break]
+'''
 
 --We have now got as into our own camp, where close painful labour is often our lot;
 which being almost continual, and without apparent effects,
@@ -741,7 +782,10 @@ notwithstanding the cause might be good: and we may thankfully say,
 that good is the word of the Lord,
 and efficacious to the smiting of the Goliaths of this day.
 
-Her own account of this journey ends here;
+[.small-break]
+'''
+
++++[+++Her own account of this journey ends here;
 but it appears that she proceeded from this place, and visited the meetings at Stockton,
 and Yarm, back to Benfieldside, then Ayton, Bilsdale, and Kirby,
 and returned home about the middle of the seventh month.
@@ -749,10 +793,15 @@ and returned home about the middle of the seventh month.
 After she had got out of Scotland,
 she and her companion felt their minds disposed to salute the
 Friends of the monthly meeting of Old Meldrum with an epistle;
-a copy whereof follows.
+a copy whereof follows:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Benfieldside, Seventh month 7th, 1782.
 
+[.salutation]
 Dear Friends!
 
 As in our travelling along,
@@ -783,7 +832,7 @@ to lead so many captives into a strange land;
 because, against the Rock of ages, whereon we might have been built,
 the gates of hell shall never be able to prevail.
 But for lack of keeping an eye open to this preserving power,
-a spirit of indifferency has crept in, and, while many have slept, tares have been sown;
+a spirit of indifference has crept in, and, while many have slept, tares have been sown;
 which, as they sprang up, have had a tendency to choke the good seed,
 those tender impressions, and reproofs of instruction,
 which would have prepared our spirits,
@@ -874,7 +923,7 @@ and filled with an earnest desire for their preservation and
 progress in that good work which is begun in their hearts.
 Be encouraged, beloved Friends, to hold on your way,
 and more fully to submit your necks to the holy yoke;
-that thereby you may be made willing to sutfer for the cause of Truth;
+that thereby you may be made willing to suffer for the cause of Truth;
 and though you may not have many examples and helpers in the Lord,
 yet being engaged to dwell near the root of divine life,
 and seeking for strength therefrom,
@@ -894,7 +943,10 @@ for the prosperity of Zion and the enlargement of her borders,
 you may become established as a city set upon a hill,
 having the light of the gospel day upon your dwellings.
 
+[.signed-section-signature]
 Sarah Grubb
+
+--
 
 Ninth month 1782.--When an unavailing anxiety has possessed my mind,
 about the situation of things among us, and the wilderness state of the church,
@@ -926,6 +978,9 @@ On our meeting again, I found there was need of a renewed engraving of these imp
 in order to preserve a preference to the Truth,
 and to keep in our remembrance that we have no continuing city here.
 
+[.small-break]
+'''
+
 Tenth month 1782.--It is an unspeakable favour, through all, to believe that,
 if we dwell in the pure life and oneness of the Truth, many waters without,
 or floods of temptation within, will never be able to quench our love, though for a time,
@@ -939,6 +994,9 @@ the need of "`standing still in the watch,`" the
 infirmities of our nature are so many and great!
 Remember me and crave my preservation, that my life at least may be given me for a prey;
 and may you and I farewell, and increase in that life and love which change not, nor end.
+
+[.small-break]
+'''
 
 1782.--I received your affectionate letter in due course: it was truly acceptable;
 and though you were far from being forgotten by me,
@@ -972,7 +1030,7 @@ If we are found worthy to stand as pillars in the Lord's house in this day,
 when there are many heavy burdens to bear, we must be first upon a sure foundation;
 our dispositions,
 like those of the disciples that discovered the
-love of their Master's glory o(C) the mount,
+love of their Master's glory on the mount,
 must be subservient to divine control:
 and we must not only learn to descend from the vision of light, but to keep the charge,
 and to tell it no man until the divine life and power arise.
@@ -981,4 +1039,3 @@ instructive traces do they leave of the Master's work,
 because they reduce self, and convince that no confidence must be placed therein!
 May it be our experience, dear friend, in the few succeeding steps of cur lives,
 patiently to suffer, and fervently to wrestle for the blessing of preservation.
-
